@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chatproject\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\x64\\chatprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chatproject\\definitions.chatproject.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

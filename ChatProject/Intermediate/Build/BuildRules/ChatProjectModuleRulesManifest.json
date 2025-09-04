@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\BootCamp\\UnealEngine File\\ChatProject\\Source\\ChatProject\\ChatProject.Build.cs",
+		"D:\\BootCamp\\UnealEngine File\\ChatProject\\Source\\ChatProject.Target.cs",
+		"D:\\BootCamp\\UnealEngine File\\ChatProject\\Source\\ChatProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

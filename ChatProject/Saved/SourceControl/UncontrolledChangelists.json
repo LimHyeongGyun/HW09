@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/Maps/ChatMap.umap",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/BluePrint/Game/BP_GameMode.uasset",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/BluePrint/Player/BP_PlayerController.uasset",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/BluePrint/Game/BP_GameModeBase.uasset",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/BluePrint/UI/WBP_ChatInput.uasset",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/BluePrint/Game/BP_GameState.uasset",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/BluePrint/Game/BP_GameStateBase.uasset",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/BluePrint/Player/BP_PlayerState.uasset",
+				"D:/BootCamp/UnealEngine File/ChatProject/Content/BluePrint/UI/WBP_NotificationText.uasset"
+			]
+		}
+	]
+}

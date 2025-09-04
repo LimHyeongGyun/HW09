@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\unrealeditor\\inc\\chatproject\\uht\\hggamestatebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\x64\\chatprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chatproject\\definitions.chatproject.h",
+            "d:\\bootcamp\\unealengine file\\chatproject\\source\\chatproject\\public\\game\\hggamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\unrealeditor\\inc\\chatproject\\uht\\hggamestatebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

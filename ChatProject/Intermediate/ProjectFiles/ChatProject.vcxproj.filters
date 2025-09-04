@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ChatProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ChatProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ChatProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ChatProject">
+      <UniqueIdentifier>{B0C94D3C-F4E9-3FA0-B11C-BC693568F2E0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ChatProject\ChatProject.cpp">
+      <Filter>Source\ChatProject</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\ChatProject\ChatProject.Build.cs">
+      <Filter>Source\ChatProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ChatProject\ChatProject.h">
+      <Filter>Source\ChatProject</Filter>
+    </ClCompile>
+    <Filter Include="Source\ChatProject\Public">
+      <UniqueIdentifier>{AD959B34-2DFF-3927-9933-1BAF1F9BD87D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ChatProject\Public\Game">
+      <UniqueIdentifier>{2B67B633-D437-319F-94DF-10DC5236DCD4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ChatProject\Public\Game\HGGameStateBase.h">
+      <Filter>Source\ChatProject\Public\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ChatProject\Public\Game\HGGameModeBase.h">
+      <Filter>Source\ChatProject\Public\Game</Filter>
+    </ClCompile>
+    <Filter Include="Source\ChatProject\Public\Player">
+      <UniqueIdentifier>{58D4E4D7-B641-31C3-833B-D5B4AE1DD8F1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ChatProject\Public\Player\HGPawn.h">
+      <Filter>Source\ChatProject\Public\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ChatProject\Public\Player\NetPlayerController.h">
+      <Filter>Source\ChatProject\Public\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ChatProject\Public\Player\HGPlayerState.h">
+      <Filter>Source\ChatProject\Public\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\ChatProject\Public\UI">
+      <UniqueIdentifier>{6A9D5FF0-ABFE-38D0-B5D5-BDCF0084238F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ChatProject\Public\UI\HGUserWidget.h">
+      <Filter>Source\ChatProject\Public\UI</Filter>
+    </ClCompile>
+    <Filter Include="Source\ChatProject\Private">
+      <UniqueIdentifier>{219A0644-9C47-3068-A188-43ED9BE181C7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ChatProject\Private\Game">
+      <UniqueIdentifier>{AC8E81F0-25C6-35BB-B4C3-BD350B6A7364}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ChatProject\Private\Game\HGGameStateBase.cpp">
+      <Filter>Source\ChatProject\Private\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ChatProject\Private\Game\HGGameModeBase.cpp">
+      <Filter>Source\ChatProject\Private\Game</Filter>
+    </ClCompile>
+    <Filter Include="Source\ChatProject\Private\Player">
+      <UniqueIdentifier>{D66FA180-02ED-3A26-BD33-CDC4FC0D5426}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ChatProject\Private\Player\HGPawn.cpp">
+      <Filter>Source\ChatProject\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ChatProject\Private\Player\NetPlayerController.cpp">
+      <Filter>Source\ChatProject\Private\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ChatProject\Private\Player\HGPlayerState.cpp">
+      <Filter>Source\ChatProject\Private\Player</Filter>
+    </ClCompile>
+    <Filter Include="Source\ChatProject\Private\UI">
+      <UniqueIdentifier>{75AC297E-0DDA-3778-8548-CFB3603BB95E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ChatProject\Private\UI\HGUserWidget.cpp">
+      <Filter>Source\ChatProject\Private\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

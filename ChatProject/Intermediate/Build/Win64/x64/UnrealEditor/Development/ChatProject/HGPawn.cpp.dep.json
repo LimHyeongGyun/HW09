@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\bootcamp\\unealengine file\\chatproject\\source\\chatproject\\private\\player\\hgpawn.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\x64\\chatprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\chatproject\\definitions.chatproject.h",
+            "d:\\bootcamp\\unealengine file\\chatproject\\source\\chatproject\\public\\player\\hgpawn.h",
+            "d:\\bootcamp\\unealengine file\\chatproject\\intermediate\\build\\win64\\unrealeditor\\inc\\chatproject\\uht\\hgpawn.generated.h",
+            "d:\\bootcamp\\unealengine file\\chatproject\\source\\chatproject\\chatproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

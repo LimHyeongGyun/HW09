@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ChatProject-0022.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\ChatProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\HGGameModeBase.gen.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\HGUserWidget.gen.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\HGPawn.gen.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\NetPlayerController.gen.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\HGGameStateBase.gen.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\ChatProject.init.gen.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\ChatProject.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\HGGameModeBase.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\HGGameStateBase.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\HGPawn.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\NetPlayerController.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\HGUserWidget.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\PerModuleInline.gen.cpp.obj"
+"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\Default.rc2.res"
+/OUT:"D:\BootCamp\UnealEngine File\ChatProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\ChatProject\UnrealEditor-ChatProject-0022.lib"
